@@ -76,7 +76,7 @@
   <ItemGroup>
     <ProjectReference Include="..\IndustrialPark\IndustrialPark.csproj">
       <Project>{62f1a222-225b-463f-85a7-70f56c34c324}</Project>
-      <Name>IndustrialPark</Name>
+      <Name>IndustrialParkButForDumDumsLikeYouAndMe</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
